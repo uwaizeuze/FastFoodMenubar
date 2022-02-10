@@ -1,0 +1,23 @@
+.slot__container {
+  width: 350px;
+  height: 150px;
+  background-color: #2bbc31;
+  display: flex;
+  justify-content: center;
+}
+.slot__box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.slot__emoji {
+  font-size: 35px;
+  font-weight: 200;
+  margin-bottom: 5px;
+}
+.slot__title {
+  font-size: 25px;
+  text-transform: capitalize;
+  color: #ffffffba;
+}
